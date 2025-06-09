@@ -17,7 +17,8 @@ which is error-prone. Generics remove this need, making code cleaner and safer.
 3->Code Reusability->Generics allow you to write classes, methods, or interfaces that work with any data type,
 reducing code duplication. A single generic class (e.g., Box<T>) can handle Strings, Integers, or custom objects.
 
-Types Generics
+Types of Generics
+
 1->Generic Method: A generic Java method takes a parameter and returns some value after performing a task. 
 It is exactly like a normal function, however, a generic method has type parameters that are cited by 
 an actual type. This allows the generic method to be used in a more general way.
